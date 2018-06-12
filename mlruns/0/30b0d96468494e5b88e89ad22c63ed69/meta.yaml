@@ -1,0 +1,13 @@
+artifact_uri: /Users/yizhang/Documents/Playground/learn_mlflow/mlruns/0/30b0d96468494e5b88e89ad22c63ed69/artifacts
+end_time: 1528782106187
+entry_point_name: ''
+experiment_id: 0
+name: Run 5
+run_uuid: 30b0d96468494e5b88e89ad22c63ed69
+source_name: mlflow_project/train.py
+source_type: 4
+source_version: 3ba6772db96f54fb8754fd2c1c103f17f7aa22dc
+start_time: 1528782106158
+status: 4
+tags: []
+user_id: yizhang
