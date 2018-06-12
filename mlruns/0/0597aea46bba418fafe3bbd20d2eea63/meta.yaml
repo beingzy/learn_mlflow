@@ -1,0 +1,13 @@
+artifact_uri: /home/yi/Documents/Projects/learn_mlflow/mlruns/0/0597aea46bba418fafe3bbd20d2eea63/artifacts
+end_time: 1528778449430
+entry_point_name: ''
+experiment_id: 0
+name: Run 0
+run_uuid: 0597aea46bba418fafe3bbd20d2eea63
+source_name: mlflow_hw.py
+source_type: 4
+source_version: 977db6804b3419a4cc855d9baee92957dedd5226
+start_time: 1528778449414
+status: 3
+tags: []
+user_id: yi
