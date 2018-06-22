@@ -7,7 +7,6 @@ rooms_ix, bedrooms_ix, population_ix, household_ix = 3, 4, 5, 6
 
 
 class CombinedAttributesAddr(BaseEstimator, TransformerMixin):
-
     def __init__(self, add_bedrooms_per_room=True):
         self.add_bedrooms_per_room = add_bedrooms_per_room
 
@@ -30,8 +29,7 @@ class CombinedAttributesAddr(BaseEstimator, TransformerMixin):
                          population_per_household]
 
 
-def DataFrameSelector(BaseEstimator, TransformerMixin):
-
+class DataFrameSelector(BaseEstimator, TransformerMixin):
     def __init__(self, attribute_names):
         self.attribute_names = attribute_names
 
